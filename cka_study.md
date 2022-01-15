@@ -10,7 +10,7 @@
 
 # CKAとは
 Kubernetes管理者としてのスキルを証明する資格です。
-試験はハンズオン形式になっていて、実際にコマンドラインの操作を行いながら問題を解きます。
+試験はハンズオン形式になっていて、実際にコマンドラインの操作を行いながら問題を解きます。　  
 [Certified Kubernetes Administrator (CKA)](https://training.linuxfoundation.org/ja/certification/certified-kubernetes-administrator-cka/)
 
 # 学習開始時点での知識
